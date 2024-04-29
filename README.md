@@ -5,7 +5,8 @@
 
 Welcome to the Ask Your Data, a conversational AI.
 
-![Image](/Images/demo.png "Demo")
+#![Image](/Images/demo.png "Demo")
+![image](https://github.com/ahmadalis2016/Iridium-AI-AskData-Ollama/assets/130319416/0c93d4f6-fef1-4899-ac81-02d281765283)
 
 
 ## Prerequisite libraries
